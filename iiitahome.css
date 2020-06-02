@@ -1,0 +1,98 @@
+img{
+	margin: 2px 590px;
+}
+h1{
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Open Sans',sans-serif;
+	text-decoration: underline;
+	font-weight: 600;
+	/*color: rgba(224,65,2,0.7);*/
+	text-transform: uppercase;
+}
+h2{
+	color: white;
+	font-size: 30px;
+	font-family: Inconsolata,serif;
+	background-color: rgba(30,60,150,0.5);
+	text-decoration: underline;
+	width: 23%;
+}
+h3{
+	background: rgba(255,228,199,0.7);
+	font-family: Raleway;
+	font-weight: 600;
+	text-decoration: underline;
+	width: 15%;
+
+}
+h4{
+	font-size: 25px;
+	font-family: Cormorant Garamond,sans-serif;
+	text-decoration: underline;
+}
+p{
+	width: 95%;
+}
+body{
+	background-image: url(imgs/iiita.jpg);
+	background-size: cover;
+}
+#first{
+	font-size: 20px;
+	font-family: Raleway,sans-serif;
+	font-weight: 600;
+
+}
+button a:hover{
+	color: red;
+}
+.loc{
+	font-size: 20px;
+	font-family: Raleway,serif;
+	font-weight: 500;
+}
+.wid{
+	width: 18%;
+}
+h2+h3{
+	width: 9%;
+}
+div h3{
+	width: 22%;
+}
+h3+div{
+	background: rgba(165,203,240,0.7);
+	font-size: 18px;
+	font-family: Open-Sans,sans-serif;
+	font-weight: 500;
+	width: 90%
+}
+h2+ol{
+	background: rgba(215,232,247,0.7);
+	width: 50%;
+}
+#long{
+	width: 32%;
+}
+.place{
+	font-size: 18px;
+	font-family: Raleway,sans-serif;
+	font-weight: 600;
+}
+a:visited{
+	color: green;
+}
+ol p{
+	font-size: 18px;
+	font-family: Raleway,sans-serif;
+	font-weight: 600;
+}
+ol ul{
+	font-size: 18px;
+	font-family: Open-Sans,sans-serif;
+}
+button{
+	background: rgba(236,242,233,0.8);
+	width: 10%;
+}

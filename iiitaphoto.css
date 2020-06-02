@@ -1,0 +1,19 @@
+img{
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+p{
+	font-family: Raleway;
+	font-size: 35px;
+	margin-left: 1.66%;
+	text-transform: uppercase;
+	font-weight: 800;
+	padding-bottom: 30px;
+	border-bottom: 2px solid #8b9cad;
+	width: 38%;
+}
+body{
+	background: url(imgs/blur.jpg);
+	background-size: cover;
+}
